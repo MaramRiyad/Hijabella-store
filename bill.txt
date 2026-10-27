@@ -1,0 +1,10 @@
+Your purchase invoice
+Date and time of purchase: 2025-05-22 10:56:42
+
+Items:
+--------------------------------------
+Classy-blue-abaya | Price: 200.0 | Quantity: 1 | Total: 200.0
+Classy-pink-abaya | Price: 140.0 | Quantity: 1 | Total: 140.0
+--------------------------------------
+Total bill: 340.0
+Thank you for shopping with us!
